@@ -1,9 +1,10 @@
 # Analysis_of_New_York_Bus_Data
 Analysis of New York Bus Data in December 2017
 
-Data source: https://www.kaggle.com/stoney71/new-york-city-transport-statistics/mta_1712.csv
+Data source: big data more than 1 GB.
+https://www.kaggle.com/stoney71/new-york-city-transport-statistics/mta_1712.csv
 
-Purpose: Finding potential questions could be answered by studying this data, and answering the questions
+Purpose: Finding potential questions could be answered by studying this big data, and answering the questions
 
 1. How many bus lines in each borough of New York city?
 
