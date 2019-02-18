@@ -1,5 +1,5 @@
 # Analysis_of_New_York_Bus_Data
-Analysis of New York Bus Data in December 2017
+Analysis of New York Bus Data in December 2017. Handling big data analysis and visulization, especially in time series analysis and Null hypothesis.
 
 Data source: big data more than 1 GB.
 https://www.kaggle.com/stoney71/new-york-city-transport-statistics/mta_1712.csv
